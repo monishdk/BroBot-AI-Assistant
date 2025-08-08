@@ -15,5 +15,5 @@ It can browse the web, play music, tell jokes, manage tasks, set reminders, and 
 ## 🛠 Installation
 1. Clone this repo:
 ```bash
-git clone https://github.com/yourusername/brobot.git
+git clone https://github.com/monishdk/brobot.git
 cd brobot
