@@ -12,8 +12,4 @@ It can browse the web, play music, tell jokes, manage tasks, set reminders, and 
 - To-do list
 - Reminders & timers
 
-## 🛠 Installation
-1. Clone this repo:
-```bash
-git clone https://github.com/monishdk/brobot.git
-cd brobot
+
