@@ -1,0 +1,12 @@
+pip install speechrecognition
+pip install pyttsx3
+pip install pywhatkit
+pip install wikipedia
+pip install pyjokes
+pip install playsound
+pip install pyaudio
+pip install datetime
+pip install requests
+pip install googletrans==4.0.0-rc1
+pip install pyautogui
+pip install pygetwindow
