@@ -1,12 +1,12 @@
-pip install speechrecognition
-pip install pyttsx3
-pip install pywhatkit
-pip install wikipedia
-pip install pyjokes
-pip install playsound
-pip install pyaudio
-pip install datetime
-pip install requests
-pip install googletrans==4.0.0-rc1
-pip install pyautogui
-pip install pygetwindow
+1. pip install speechrecognition  
+2. pip install pyttsx3  
+3. pip install pywhatkit  
+4. pip install wikipedia  
+5. pip install pyjokes  
+6. pip install playsound  
+7. pip install pyaudio  
+8. pip install datetime  
+9. pip install requests  
+10. pip install googletrans==4.0.0-rc1  
+11. pip install pyautogui  
+12. pip install pygetwindow  
